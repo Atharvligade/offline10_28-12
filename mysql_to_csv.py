@@ -31,3 +31,4 @@ def main():
     print("done")
 if __name__=='__main__':
     main()
+#pls optimize your code with funtions, lambda
