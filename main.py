@@ -10,3 +10,8 @@ def connect1():
     cur.close()
 
 connect1()
+
+
+
+def add():
+    pass
