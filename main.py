@@ -1,3 +1,5 @@
+from dataclasses import asdict
+
 import pymysql
 
 def connect1():
@@ -15,6 +17,7 @@ connect1()
 def add():
     pass
 def sub():
-    pass
 
-
+pass
+asd
+asdict(asd)
