@@ -10,3 +10,4 @@ def connect1():
     cur.close()
 
 connect1()
+# this is demo for import mysql
